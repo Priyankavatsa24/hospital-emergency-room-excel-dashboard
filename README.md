@@ -45,6 +45,10 @@ This project focuses on analyzing hospital emergency room data through an intera
 - Department referral analysis
 - Daily trends in patient visits, waiting time, and satisfaction
 
+  ## Dashboard Preview
+
+![Hospital Emergency Room Analysis Dashboard](Hospital%20Emergency%20Room%20Analysis%20Dashboard.png)
+
 ## Key Learnings
 This project provides practical exposure to data preparation, data modeling, KPI tracking, dashboard design, and reporting using Excel analytics tools.
 
